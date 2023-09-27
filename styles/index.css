@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+
+body {  
+  background-color: black;
+  color: white;
+}
+
+
+.container {
+  display: grid;
+  height: 85vh;
+  gap: 24px;
+}
